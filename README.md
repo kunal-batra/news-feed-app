@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project helps user to find a latest news feed or any other news article based on the keywords put in the searchbar.
+
+API used for this project is https://newsapi.org/.
+
 ## Available Scripts
 
 In the project directory, you can run:
